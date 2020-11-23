@@ -1,0 +1,70 @@
+/* GENERAL STYLES */
+
+/* FONTS */
+  /* headers:
+      /* font-family: 'Karla', sans-serif; */
+  /* regular text */
+      /* font-family: 'Lora', serif; */
+
+/* COLORS */
+  /* dark blue for some texts and backgrounds = #000033 */
+  /* white / lightblue gradient background = linear-gradient(to right, white, lightblue) */
+
+/* general css */
+
+
+
+/* header section */
+
+
+
+/* hero section */
+
+
+
+/* pic section */
+/* you may want to try using object-fit:cover; */
+
+
+
+/* vid section */
+
+#vid-gallery {
+  display: flex;
+  background: linear-gradient(to right, white, lightblue);
+  padding: 20px 0 20px 0;
+}
+
+.video {
+  width: 48%;
+  margin: 0 auto;
+}
+
+/* copied video responsive from https://www.ostraining.com/blog/coding/responsive-videos/ */
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+/* review section */
+
+
+
+/* contact section */
+
+
+
+/* try.html page */
+
